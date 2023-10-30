@@ -1,0 +1,56 @@
+body {
+  background-color: green;	
+  color: orange;
+  font-family: Times New Roman;
+}
+
+h1 { color: skyblue;
+  padding: 15px 220px;
+}
+
+h2 {
+  color: blueviolet;
+  padding: 15px 185px;
+}
+
+h3 {
+  color: blueviolet;
+  padding: 15px 225px;
+  font-size: 19px; 
+}
+
+/* Custom design with class */
+
+.container {
+width: 800px;
+margin: 10px auto;
+}
+
+.card-white {
+padding: 60px;
+margin: 50px;
+box-shadow: 1px 10px 30px rgba(0,0,0,1);
+border-radius: 4px;
+text-align: center;
+}
+
+.img-circle {
+ border-radius: 50%; 
+ padding:15px 185px;
+}
+
+.btn-blue {
+  background-color: 0042aa;
+  color: white;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: orange;
+  color: white;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
